@@ -2,8 +2,6 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-# 🚦 WIP 🚦
-
 ### 🍊 Jupyter Notebook
 
 | Notebook | Info
@@ -20,7 +18,7 @@ https://arxiv.org/abs/2403.14621
 https://justimyhxu.github.io/projects/grm/
 
 ### 🖼 Output
-
+![Screenshot 2024-03-30 201155](https://github.com/camenduru/GRM-jupyter/assets/54370274/142be454-c48b-4662-ab0d-61f1b482269b)
 
 ### 🏢 Sponsor
 https://modelslab.com
