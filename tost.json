@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
+      "readme": {
+        "type": "string",
+        "title": "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation",
+        "author": "Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein",
+        "code": "https://github.com/justimyhxu/GRM",
+        "paper": "https://arxiv.org/abs/2403.14621",
+        "page": "https://justimyhxu.github.io/projects/grm/",
+        "jupyter": "https://github.com/camenduru/GRM-jupyter",
+        "replicate": "https://replicate.com/camenduru/grm",
+        "post": "https://twitter.com/camenduru/status/1774071006174310609",
+        "tags": [
+          "Image to 3D"
+        ],
+        "widget": "readme"
+      }
+    }
+  }
